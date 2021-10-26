@@ -1,4 +1,4 @@
-console.log("Creating the notes app");
+//console.log("Creating the notes app");
 
 showNotes();
 
